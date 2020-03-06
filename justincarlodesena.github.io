@@ -1,1 +1,1 @@
-<img src="potential target.jpg" alt="potential target" height="42" width="42">
+<img src="potentialtarget.jpg" alt="potentialtarget" height="42" width="42">
